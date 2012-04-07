@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="drinks.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="drinks.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/drinks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="59" selection-end="59" vertical-scroll-proportion="0.101052634">
+            <state line="6" column="2" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="janrain.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="janrain.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/janrain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="47" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0">
+            <state line="31" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5221053">
               <folding />
             </state>
           </provider>
@@ -61,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/janrain.js" />
         <option value="$PROJECT_DIR$/model/drinks.rb" />
+        <option value="$PROJECT_DIR$/js/janrain.js" />
       </list>
     </option>
   </component>
@@ -382,13 +383,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/janrain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="47" selection-start="910" selection-end="910" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/drinks_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="44" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
@@ -398,7 +392,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/drinks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="59" selection-end="59" vertical-scroll-proportion="0.101052634">
+        <state line="6" column="2" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/janrain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="909" selection-end="909" vertical-scroll-proportion="0.5221053">
           <folding />
         </state>
       </provider>
