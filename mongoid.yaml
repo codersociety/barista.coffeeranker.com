@@ -1,0 +1,14 @@
+test:
+  host: localhost
+  database: test
+  logger: false
+development:
+  host: localhost
+  database: test
+
+production:
+  host: prod_host
+  port: 1000
+  username: main
+  password: blabla
+  database: cool_demo
